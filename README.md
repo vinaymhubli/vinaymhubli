@@ -2,12 +2,15 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" /> I'm Vinay M</h1>
-<h3 align="center">A Passionate Flutter Mobile Application Developer .</h3>
+<h1 align="center">A Passionate Flutter Mobile Application Developer .</h3>
 
 <img align="right" alt="developer" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">,
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinaymhubli&label=Profile%20views&color=0e75b6&style=flat" alt="vinaymhubli" /> </p>
 
 <p align="left"> <a href="https://twitter.com/vinaymhubli" target="blank"><img src="https://img.shields.io/twitter/follow/vinaymhubli?logo=twitter&style=for-the-badge" alt="vinaymhubli" /></a> </p>
+
+### ✍️ Quote
+<h3 align="left">“Great things happen to those who don't stop believing, trying, learning, and being grateful.” </h1>
 
 # 📒 About Me :
 - 🌱 I’m currently learning **more about kotlin & backend development.**
