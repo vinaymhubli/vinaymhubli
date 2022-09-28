@@ -1,7 +1,7 @@
-<h1 align="center"> Hello.. <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+<h1 align="center"> Hello.. <img src="https://media1.giphy.com/media/KGMzZvWa5su2O5LCVR/giphy.gif?cid=790b7611cb26474070f27de92e8defe3c8b9584cb76c6bac&rid=giphy.gif&ct=s" 
          alt="Waving hand animated gif"
-         height="45"
-         width="45" /> I'm Vinay M</h1>
+         height="75"
+         width="90" /> I'm Vinay M</h1>
 <h1 align="center">A Passionate Flutter Mobile Application Developer .</h3>
 
 <img align="right" alt="developer" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">,
