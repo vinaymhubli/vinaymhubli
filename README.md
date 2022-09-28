@@ -1,5 +1,4 @@
-<h1 align="center"> Hello.. <img src="https://media1.giphy.com/media/KGMzZvWa5su2O5LCVR/giphy.gif?cid=790b7611cb26474070f27de92e8defe3c8b9584cb76c6bac&rid=giphy.gif&ct=s" 
-         alt="Waving hand animated gif"
+<h1 align="center"> Hello.. <img src="https://c.tenor.com/x_rMzbGDJLYAAAAC/emoji-hi.gif"
          height="75"
          width="90" /> I'm Vinay M</h1>
 <h1 align="center">A Passionate Flutter Mobile Application Developer .</h3>
