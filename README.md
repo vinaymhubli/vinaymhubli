@@ -1,5 +1,5 @@
 <h1 align="center"> Hello.. <img src="https://c.tenor.com/p59NJj58LMsAAAAC/waving-wave.gif"
-         height="75"
+         height="55"
          width="90" /> I'm Vinay M</h1>
 <h1 align="center">A Passionate Flutter Mobile Application Developer .</h3>
 
