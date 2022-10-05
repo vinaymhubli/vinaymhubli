@@ -12,7 +12,7 @@
 <h3 align="left">“Great things happen to those who don't stop believing, trying, learning, and being grateful.” </h1>
 
 # 📒 About Me :
-- 🌱 I’m currently learning **more about kotlin & backend development.**
+- 🌱 I’m currently learning **more about flutter & backend development.**
 
 - 💬 Ask me about **Flutter related stuff.**
 
