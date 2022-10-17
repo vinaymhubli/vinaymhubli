@@ -24,7 +24,7 @@
 
 <p align="left">
 <a href="https://twitter.com/vinaymhubli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vinaymhubli" height="30" width="40" /></a>
-<a href="https://instagram.com/_vinay._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_vinay._" height="30" width="40" /></a>
+<a href="https://instagram.com/_vinay._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_vnay._" height="30" width="40" /></a>
 </p>
 
 
