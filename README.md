@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/112925756/207425327-68dd77b5-981f-4959-af0c-49f014581ef9.jpg" width="2500" height="300">
+<img src="https://user-images.githubusercontent.com/112925756/207425327-68dd77b5-981f-4959-af0c-49f014581ef9.jpg" width="2500" height="400">
 
 <h1 align="center"> Hello.. <img src="https://c.tenor.com/p59NJj58LMsAAAAC/waving-wave.gif"
          height="55"
